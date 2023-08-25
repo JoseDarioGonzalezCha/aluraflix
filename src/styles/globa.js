@@ -4,6 +4,7 @@ const GlobalStyle = createGlobalStyle`
 
     :root{
         --primary: #2A7AE4;
+        --white: #fff;
 
         --color-infra: #9CD33B;
         --color-data-science: #9CD33B;
@@ -75,6 +76,8 @@ const GlobalStyle = createGlobalStyle`
     p {
         font-weight: 300;
     }
+
+    
 
 `;
 export default GlobalStyle;
