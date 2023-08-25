@@ -1,0 +1,133 @@
+{
+	"cardVideo": [
+	  {
+		"id": 1,
+		"title": "Transformação Digital",
+		"url": "https://www.youtube.com/watch?v=Z-N5Fr9P-GU",
+		"image": "http://localhost:3000/img/trans_digital.jpg",
+		"category": "Front-End"
+	  },
+	  {
+		"id": 2,
+		"title": "Como começar com React ainda ainda em 2022",
+		"url": "https://www.youtube.com/watch?v=35jb4FeQSe4",
+		"image": "http://localhost:3000/img/front3.png",
+		"category": "Front-End"
+	  },
+	  {
+		"id": 3,
+		"title": "O que é React",
+		"url": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
+		"image": "http://localhost:3000/img/front2.png",
+		"category": "Front-End"
+	  },
+	  {
+		"id": 4,
+		"title": "useSTATE: Aprenda o React Hook neste tutorial",
+		"url": "https://www.youtube.com/watch?v=KdQa4Rd6K1A&t=1249s",
+		"image": "http://localhost:3000/img/front1.png",
+		"category": "Front-End"
+	  },
+	  {
+		"id": 5,
+		"title": "Será que a inteligência artificial será tão poderosa quanto os seres humanos? com Gui Silveira",
+		"url": "https://www.youtube.com/watch?v=Kk3vBRqKA2o&list=PLh2Y_pKOa4UcNJzv9IXUAihhCVv7YkyKQ&index=8",
+		"image": "http://localhost:3000/img/data_science_1.jpg",
+		"category": "Data-Science"
+	  },
+	  {
+		"id": 6,
+		"title": "Data Science: por onde eu começo?",
+		"url": "https://www.youtube.com/watch?v=K-eaT4V8j-w&list=PLh2Y_pKOa4UcNJzv9IXUAihhCVv7YkyKQ&index=1",
+		"image": "http://localhost:3000/img/data_science_2.jpg",
+		"category": "Data-Science"
+	  },
+	  {
+		"id": 7,
+		"title": "3 aplicações de Machine Learning onde você nem imagina com Thiago Santos",
+		"url": "https://www.youtube.com/watch?v=qYhixp5qxTc&list=PLh2Y_pKOa4UcNJzv9IXUAihhCVv7YkyKQ&index=7",
+		"image": "http://localhost:3000/img/data_science_3.jpg",
+		"category": "Data-Science"
+	  },
+	  {
+		"id": 8,
+		"title": "Genoma Humano e Ciências de Dados com Vanessa Leiko",
+		"url": "https://www.youtube.com/watch?v=6xBGk2HdeUg&list=PLh2Y_pKOa4UcNJzv9IXUAihhCVv7YkyKQ&index=12",
+		"image": "http://localhost:3000/img/data_science_4.jpg",
+		"category": "Data-Science"
+	  },
+	  {
+		"id": 9,
+		"title": "Desenvolvimento iOS com Giovanna Moeller",
+		"url": "https://www.youtube.com/watch?v=4AH9H_dx_7g&list=PLh2Y_pKOa4UcbZk76OuAamNm3zCCmcWv6&index=12",
+		"image": "http://localhost:3000/img/mobile_1.jpg",
+		"category": "Mobile"
+	  },
+	  {
+		"id": 10,
+		"title": "Temas e colores no SwiftUI ",
+		"url": "https://www.youtube.com/watch?v=uXA8jLSuPNA&list=PLh2Y_pKOa4UcbZk76OuAamNm3zCCmcWv6&index=23",
+		"image": "http://localhost:3000/img/mobile_2.jpg",
+		"category": "Mobile"
+	  },
+	  {
+		"id": 11,
+		"title": "De Views para Jetpack Compose: Integração e migração de projetos",
+		"url": "https://www.youtube.com/watch?v=ly8e6WB0YQo&list=PLh2Y_pKOa4UcbZk76OuAamNm3zCCmcWv6",
+		"image": "http://localhost:3000/img/mobile_3.jpg",
+		"category": "Mobile"
+	  },
+	  {
+		"id": 12,
+		"title": "Novidades do Figma",
+		"url": "https://www.youtube.com/watch?v=5HpvtVQh9kI&list=PLh2Y_pKOa4UcbZk76OuAamNm3zCCmcWv6&index=13",
+		"image": "http://localhost:3000/img/mobile_4.jpg",
+		"category": "Mobile"
+	  }
+	],
+	"categories": [
+	  {
+		"id": 1,
+		"name": "Front-End",
+		"color": "#6BD1FF",
+		"description": "Lorem Ipsum lalala"
+	  },
+	  {
+		"id": 2,
+		"name": "Back-End",
+		"color": "#69953B",
+		"description": "Lorem Ipsum lalala"
+	  },
+	  {
+		"id": 3,
+		"name": "Mobile",
+		"color": "#FFBA05",
+		"description": "Lorem Ipsum lalala"
+	  },
+	  {
+		"id": 4,
+		"name": "Infra",
+		"color": "#9CD33B",
+		"description": "Lorem Ipsum lalala"
+	  },
+	  {
+		"id": 5,
+		"name": "Data-Science",
+		"color": "#9CD33B",
+		"description": "Lorem Ipsum lalala"
+	  },
+	  {
+		"id": 6,
+		"name": "Innovation",
+		"color": "#9CD33B",
+		"description": "Lorem Ipsum lalala"
+	  },
+	  {
+		"id": 7,
+		"name": "Marketing",
+		"color": "#6B5BE2",
+		"description": "Lorem Ipsum lalala",
+		"codigoSeguranca": "1234"
+	  }
+	]
+  }
